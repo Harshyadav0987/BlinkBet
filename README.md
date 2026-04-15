@@ -287,7 +287,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 Built by **Harsh Yadav** — a passionate full-stack developer with expertise in Web3, real-time systems, and competitive programming.
 
 - 🔗 [GitHub](https://github.com/Harshyadav0987)
-- 💼 [LinkedIn](https://linkedin.com/in/harsh-yadav)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-yadav-783917299/)
 - 🎯 [LeetCode](https://leetcode.com/u/harshbelike/)
 
 ---
